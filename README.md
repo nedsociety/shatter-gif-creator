@@ -3,7 +3,7 @@ Create an explosive shatter animation GIF from a static image.
 
 Quick start:
 ```bash
-uv run shatter.py input.png output.gif --duration 1200 --shards 5 --fps 24
+uv run https://github.com/nedsociety/shatter-gif-creator/raw/refs/heads/main/shatter.py input.png output.gif
 ```
 
 Options:
